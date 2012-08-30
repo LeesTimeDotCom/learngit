@@ -6,4 +6,6 @@ Added a new line.
 
 fixed the broken email address.
 
-<div id="footer">contact : email.support@github.com</div>
+<div id="footer">
+  please contact us at email.support@github.com
+</div>
